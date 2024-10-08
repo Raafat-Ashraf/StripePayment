@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "A+Pk54hchMkz5al1I2kmHu7NpUjp8si8QezeTVhGIsQ=",
+  "Source": "StripPayment.Server",
+  "BasePath": "_content/StripPayment.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
